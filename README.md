@@ -1,23 +1,23 @@
 <h1 align="center">
-  <a href="https://libmediadevice.example"><img src="./.github/logo.jpg" alt="libMediaDevice" height="150px"></a>
+  <a href="https://github.com/deep-neural/libmediadevice"><img src="./.github/logo.jpg" alt="libMediaDevice" height="150px"></a>
   <br>
   libMediaDevice
   <br>
 </h1>
 <h4 align="center">A modern C/C++ library for interfacing with low-level media devices across multiple platforms</h4>
 <p align="center">
-    <a href="https://libmediadevice.example"><img src="https://img.shields.io/badge/libMediaDevice-C/C++-blue.svg?longCache=true" alt="libMediaDevice" /></a>
+    <a href="https://github.com/deep-neural/libmediadevice"><img src="https://img.shields.io/badge/libMediaDevice-C/C++-blue.svg?longCache=true" alt="libMediaDevice" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg" alt="License: MIT" /></a>
     <br>
-    <a href="https://github.com/media-lib/libMediaDevice"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
+    <a href="https://github.com/deep-neural/libmediadevice"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
 </p>
 <br>
 
 ### New Release
 
-libMediaDevice v1.0.0 has been released! See the [release notes](https://github.com/media-lib/libMediaDevice/wiki/Release-libMediaDevice@v1.0.0) to learn about new features, enhancements, and breaking changes.
+libMediaDevice v1.0.0 has been released! See the [release notes](https://github.com/deep-neural/libmediadevice/wiki/Release-libMediaDevice@v1.0.0) to learn about new features, enhancements, and breaking changes.
 
-If you aren't ready to upgrade yet, check the [tags](https://github.com/media-lib/libMediaDevice/tags) for previous stable releases.
+If you aren't ready to upgrade yet, check the [tags](https://github.com/deep-neural/libmediadevice/tags) for previous stable releases.
 
 We appreciate your feedback! Feel free to open GitHub issues or submit changes to stay updated in development and connect with the maintainers.
 
@@ -105,7 +105,7 @@ if (audio_device->GetFrameS16LE(&audio_buffer)) {
 
 **[Example Applications](examples/README.md)** contain code samples demonstrating common use cases with libMediaDevice.
 
-**[API Documentation](https://libmediadevice.example/docs)** provides a comprehensive reference of our Public APIs.
+**[API Documentation](https://github.com/deep-neural/libmediadevice/docs)** provides a comprehensive reference of our Public APIs.
 
 Now go build something amazing! Here are some ideas to spark your creativity:
 * Create cross-platform media stream applications with consistent APIs.
@@ -114,7 +114,7 @@ Now go build something amazing! Here are some ideas to spark your creativity:
 
 ## Building
 
-See [BUILDING.md](https://github.com/media-lib/libMediaDevice/blob/master/BUILDING.md) for building instructions.
+See [BUILDING.md](https://github.com/deep-neural/libmediadevice/blob/master/BUILDING.md) for building instructions.
 
 ### Features
 
@@ -140,7 +140,7 @@ See [BUILDING.md](https://github.com/media-lib/libMediaDevice/blob/master/BUILDI
 
 ### Contributing
 
-Check out the [contributing guide](https://github.com/media-lib/libMediaDevice/wiki/Contributing) to join the team of dedicated contributors making this project possible.
+Check out the [contributing guide](https://github.com/deep-neural/libmediadevice/wiki/Contributing) to join the team of dedicated contributors making this project possible.
 
 ### License
 
